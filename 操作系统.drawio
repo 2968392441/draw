@@ -671,7 +671,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 5 页" id="d_2OP2OEiMw7Q0-Ya96z">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2755" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -772,40 +772,40 @@
           <mxGeometry height="157.5" width="20" x="1645" y="915" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-145" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;动态磨损均衡&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="115" x="1712.5" y="2525" as="geometry" />
+          <mxGeometry height="30" width="115" x="1712.5" y="2725" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-146" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;静态磨损均衡&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="115" x="1712.5" y="2480" as="geometry" />
+          <mxGeometry height="30" width="115" x="1712.5" y="2680" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-147" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;方法&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1622.5" y="2500" as="geometry" />
+          <mxGeometry height="30" width="90" x="1622.5" y="2700" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-148" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;思想：将擦除平均分布在各个块上&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="290" x="1637.5" y="2435" as="geometry" />
+          <mxGeometry height="30" width="290" x="1637.5" y="2635" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-149" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;原因：一个块被擦除过多，可能会坏掉&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="340" x="1632.5" y="2390" as="geometry" />
+          <mxGeometry height="30" width="340" x="1632.5" y="2590" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-151" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;磨损均衡技术&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="110" x="1507.5" y="2456.5" as="geometry" />
+          <mxGeometry height="30" width="110" x="1507.5" y="2656.5" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-152" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;支持随机访问&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="115" x="1597.5" y="2330" as="geometry" />
+          <mxGeometry height="30" width="115" x="1597.5" y="2530" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-153" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;以块为单位擦除，类似磁道&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="220" x="1597.5" y="2290" as="geometry" />
+          <mxGeometry height="30" width="220" x="1597.5" y="2490" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-154" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;以页为单位读/写，类似扇区&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="230" x="1597.5" y="2250" as="geometry" />
+          <mxGeometry height="30" width="230" x="1597.5" y="2450" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-155" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;读写性能&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1497.5" y="2300" as="geometry" />
+          <mxGeometry height="30" width="90" x="1497.5" y="2500" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-156" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;原理：电可擦除ROM&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="190" x="1497.5" y="2190" as="geometry" />
+          <mxGeometry height="30" width="190" x="1497.5" y="2390" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-157" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;固态硬盘&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1397.5" y="2355" as="geometry" />
+          <mxGeometry height="30" width="90" x="1397.5" y="2555" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-158" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;磁盘结构设计（为什么把柱面放在盘面之前？）&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="390" x="1725" y="2127.5" as="geometry" />
@@ -838,7 +838,7 @@
           <mxGeometry height="30" width="340" x="1505" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-168" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;磁盘&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1415" y="1970" as="geometry" />
+          <mxGeometry height="30" width="90" x="1417.5" y="2065" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-169" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;设备独立性软件&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="1335" y="1430" as="geometry" />
@@ -955,22 +955,43 @@
           <mxGeometry height="120" width="20" x="1705" y="2035" as="geometry" />
         </mxCell>
         <mxCell id="Tb-PkPVCb7Wx49wil-G8-2" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
-          <mxGeometry height="347.5" width="20" x="1485" y="1810" as="geometry" />
+          <mxGeometry height="540" width="20" x="1485" y="1810" as="geometry" />
         </mxCell>
         <mxCell id="NKjgOC956SE4gBUIoKCT-1" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
-          <mxGeometry height="70" width="20" x="1692.5" y="2480" as="geometry" />
+          <mxGeometry height="70" width="20" x="1692.5" y="2680" as="geometry" />
         </mxCell>
         <mxCell id="NKjgOC956SE4gBUIoKCT-4" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
-          <mxGeometry height="157" width="20" x="1627.5" y="2393" as="geometry" />
+          <mxGeometry height="157" width="20" x="1627.5" y="2593" as="geometry" />
         </mxCell>
         <mxCell id="NKjgOC956SE4gBUIoKCT-5" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
-          <mxGeometry height="360" width="20" x="1487.5" y="2190" as="geometry" />
+          <mxGeometry height="360" width="20" x="1487.5" y="2390" as="geometry" />
         </mxCell>
         <mxCell id="kOZZOdUMI4lgIBlzLeU9-1" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
-          <mxGeometry height="2280" width="20" x="1335" y="275" as="geometry" />
+          <mxGeometry height="2475" width="20" x="1335" y="275" as="geometry" />
         </mxCell>
         <mxCell id="UZNmPIk4UFrFzdCW6u6h-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;输入输出管理&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="150" x="1185" y="1400" as="geometry" />
+          <mxGeometry height="30" width="150" x="1185" y="1497.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-wCBKWY2z_i2wfzuAaoW-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;磁盘阵列RAID&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1515" y="2251.25" as="geometry" />
+        </mxCell>
+        <mxCell id="-wCBKWY2z_i2wfzuAaoW-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;思想：利用磁盘廉价的性能提高存储性能，可靠性，安全性&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="470" x="1665" y="2190" as="geometry" />
+        </mxCell>
+        <mxCell id="-wCBKWY2z_i2wfzuAaoW-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;RAID0：条带化，无容错能力&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="1655" y="2230" as="geometry" />
+        </mxCell>
+        <mxCell id="-wCBKWY2z_i2wfzuAaoW-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;RAID1：直接存两份数据&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="265" x="1635" y="2260" as="geometry" />
+        </mxCell>
+        <mxCell id="-wCBKWY2z_i2wfzuAaoW-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;RAID2：利用海明码进行纠错&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="1655" y="2290" as="geometry" />
+        </mxCell>
+        <mxCell id="-wCBKWY2z_i2wfzuAaoW-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;RAID3-5：通过数据校验提高容错能力&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="315" x="1665" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="-wCBKWY2z_i2wfzuAaoW-52" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="142.5" width="20" x="1645" y="2195" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
