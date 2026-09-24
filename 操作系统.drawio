@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="5">
+<mxfile host="app.diagrams.net" pages="6">
   <diagram name="第 1 页" id="7oJ5BQBAyJ6qqGBaDz17">
     <mxGraphModel dx="1837" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry height="770" width="20" x="1400" y="710" as="geometry" />
         </mxCell>
         <mxCell id="vpYjFyx4wHDX7P2Vv4R3-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;操作系统的特征：并发、共享、虚拟、异步&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="360" x="1430" y="690" as="geometry" />
+          <mxGeometry height="40" width="360" x="1425" y="720" as="geometry" />
         </mxCell>
         <mxCell id="vpYjFyx4wHDX7P2Vv4R3-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;操作系统的运行环境&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="170" x="1425" y="1035" as="geometry" />
@@ -92,7 +92,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 2 页" id="X2ndKvu2ZoqTM2WUdTp_">
-    <mxGraphModel dx="1945" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2361" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -310,10 +310,10 @@
           <mxGeometry height="443" width="20" x="1420" y="2205" as="geometry" />
         </mxCell>
         <mxCell id="bRJFj5dv_hFR1u-MRgC5-86" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
-          <mxGeometry height="1910" width="100" x="1230" y="738" as="geometry" />
+          <mxGeometry height="1910" width="100" x="1270" y="735" as="geometry" />
         </mxCell>
         <mxCell id="bRJFj5dv_hFR1u-MRgC5-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;进程与线程&lt;/span&gt;" vertex="1">
-          <mxGeometry height="75" width="150" x="1080" y="1655.5" as="geometry" />
+          <mxGeometry height="75" width="150" x="1130" y="1652.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -710,7 +710,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 5 页" id="d_2OP2OEiMw7Q0-Ya96z">
-    <mxGraphModel dx="2361" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2755" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1052,6 +1052,107 @@
         </mxCell>
         <mxCell id="eoaMneex8CN-RB_EZLMD-8" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
           <mxGeometry height="120" width="20" x="1485" y="2396" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4MBKYlw0gopm2GW2l8KP" name="第 6 页">
+    <mxGraphModel dx="2361" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7NgrptHa6qRLhtWGxSqh-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;处理机调度算法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1040" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;先来先服务算法（FCFS）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="1190" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;磁盘调度算法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="1040" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;C-LOOK调度算法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="1190" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;LOOK调度算法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="1190" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;循环扫描算法（C-SCAN）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="240" x="1180" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;扫描算法（SCAN）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="1190" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;最短寻找时间优先算法（SSTF）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="270" x="1190" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;先来先服务算法（FIFS）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="1190" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;页面置换算法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="1040" y="1305" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;改进型时钟算法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="1180" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;时钟置换算法（CLOCK）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="1190" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;最少使用算法（LFU）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="1190" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;最近最久未使用置换算法（LRU）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="280" x="1190" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;先进先出置换算法（FIFO）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="1190" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;最佳置换算法（OPT）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="1190" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;邻近适应算法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="1180" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;最坏适应算法&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="1180" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;最佳适应算法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="1180" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;首次适应算法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="1180" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;多级反馈队列调度算法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="1190" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;优先级调度算法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="1190" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;最高响应比优先调度算法（HRRN）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="300" x="1190" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;时间片轮转调度算法（RR）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="240" x="1190" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;最短剩余时间优先（SRTF）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="240" x="1190" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-91" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;最短作业优先（SJF）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="1190" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="IpCBL7CfjJAhEJEuojAD-92" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="270" width="20" x="1170" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="XeVRhadnQoPhwRrfGh7L-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;动态分区分配算法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="1010" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZkYzbSRjMPJPZyerRPT-1" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="150" width="20" x="1170" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="f7pThK1cXHAKijtJ774G-1" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="220" width="20" x="1170" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="JP4ojFb3d9wFN-b6PP89-1" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="220" width="20" x="1170" y="1475" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
