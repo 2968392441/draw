@@ -710,7 +710,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 5 页" id="d_2OP2OEiMw7Q0-Ya96z">
-    <mxGraphModel dx="2755" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1945" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -838,7 +838,7 @@
           <mxGeometry height="30" width="230" x="1597.5" y="2630" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-155" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;读写性能&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="1497.5" y="2680" as="geometry" />
+          <mxGeometry height="30" width="90" x="1497.5" y="2672.5" as="geometry" />
         </mxCell>
         <mxCell id="p3opOu_9j6Pw0HwchIPd-156" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;原理：电可擦除ROM&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="190" x="1497.5" y="2570" as="geometry" />
@@ -1052,6 +1052,9 @@
         </mxCell>
         <mxCell id="eoaMneex8CN-RB_EZLMD-8" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
           <mxGeometry height="120" width="20" x="1485" y="2396" as="geometry" />
+        </mxCell>
+        <mxCell id="_t8GjDlDLCSEyHM1YW7L-1" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="105" width="20" x="1578" y="2635" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
