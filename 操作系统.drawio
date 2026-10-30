@@ -489,7 +489,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 4 页" id="pLsl3sbj-zw9GGxDQECg">
-    <mxGraphModel dx="1945" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1992" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -505,8 +505,8 @@
         <mxCell id="uU09xOmetwu84QKLA0S8-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;VNODE：VFS 对“一个打开文件”的统一内存表示&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="420" x="1480" y="2330" as="geometry" />
         </mxCell>
-        <mxCell id="uU09xOmetwu84QKLA0S8-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;要求下层文件系统必须实现某些规定的函数功能&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="410" x="1535" y="2270" as="geometry" />
+        <mxCell id="uU09xOmetwu84QKLA0S8-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;要求下层文件系统必须实现某些规定的函数功能(open,read write)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="565" x="1535" y="2270" as="geometry" />
         </mxCell>
         <mxCell id="uU09xOmetwu84QKLA0S8-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;向上层用户进程提供统一标准的系统调用接口&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="380" x="1550" y="2230" as="geometry" />
@@ -710,7 +710,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 5 页" id="d_2OP2OEiMw7Q0-Ya96z">
-    <mxGraphModel dx="1945" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1992" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
