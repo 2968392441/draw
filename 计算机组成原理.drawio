@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="5">
+<mxfile host="app.diagrams.net" pages="7">
   <diagram id="dy0K8H_kLG0nnVrXyS9m" name="第一章">
     <mxGraphModel dx="1653" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -65,6 +65,59 @@
         </mxCell>
         <mxCell id="3NaGeQFZm0vsc2QvkCgg-105" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
           <mxGeometry height="300" width="20" x="840" y="530" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6W071GUfFjfx7ovtBZQi" name="第二章">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9_y-1MA_mz76IxVh_Sie-3031" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;加减运算&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="1265" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="9_y-1MA_mz76IxVh_Sie-3032" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;表示范围&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="1265" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="9_y-1MA_mz76IxVh_Sie-3033" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;IEEE&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;浮点数&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1155" y="1055" as="geometry" />
+        </mxCell>
+        <mxCell id="9_y-1MA_mz76IxVh_Sie-3034" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;除法器&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="1250" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="9_y-1MA_mz76IxVh_Sie-3035" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;乘法器&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="1250" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="9_y-1MA_mz76IxVh_Sie-3036" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;加法器，ALU&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1240" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="9_y-1MA_mz76IxVh_Sie-3037" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;运算部件&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="1160" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="9_y-1MA_mz76IxVh_Sie-3038" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据的表示和运算&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="975" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="9_y-1MA_mz76IxVh_Sie-3039" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;整数&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="1170" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="9_y-1MA_mz76IxVh_Sie-3040" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;整数类型及类型转换&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="1230" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="9_y-1MA_mz76IxVh_Sie-3041" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;原码、反码、移码、补码&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="250" x="1240" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="-DsKKI_XBinXbjafvrST-1" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="100" width="20" x="1240" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="QBpEnHIYgkLT0NYcTHKc-1" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="120" width="20" x="1240" y="885" as="geometry" />
+        </mxCell>
+        <mxCell id="QBpEnHIYgkLT0NYcTHKc-2" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="80" width="20" x="1245" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="QBpEnHIYgkLT0NYcTHKc-3" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="350" width="20" x="1140" y="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -658,6 +711,122 @@
         </mxCell>
         <mxCell id="aGTSxHnxAhogbwoI4waJ-124" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
           <mxGeometry height="730" width="20" x="890" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tuZ1HvrCthJdcV6tJMmu" name="第 6 页">
+    <mxGraphModel dx="2850" dy="1281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4FEjhabg6CGAZFthCUfX-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;计&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;算&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;机&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;组&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;成&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;原&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;理&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="490" width="60" x="710" y="1407.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据的表示和运算&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="800" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-171" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;CPU-&amp;gt;Cache-&amp;gt;主存-&amp;gt;辅存，存储周期&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="311" x="979" y="1253" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-172" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DMA方式：DMA请求总线，DMA中断请求；停止CPU访存，周期挪用，划分CPU工作周期&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="765" x="955" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-173" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;中断IO方式：中断响应，中断处理&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="290" x="966.5" y="2070" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-174" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;轮询IO方式&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="121" x="964" y="2020" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-175" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;带宽计算&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="961" y="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-177" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;总线定时&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="971" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-179" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;一堆指令怎么执行&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="969" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-180" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;逻辑组合元件和时序组合元件，一条指令的具体执行过程，取指阶段的具体指令及控制信号&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="751" x="959" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-181" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;取指译码执行访存写回、流水段方式，结构冒险，数据冒险和控制冒险及解决方式，超流水线和超标量流水线&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="870" x="970" y="1705" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-182" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;指令码和操作码，寻址方式，一地址码、二地址码等&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="430" x="969" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-183" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;CISC和RISC&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="959" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-184" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;突发传送，字扩展和位扩展&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="350" x="916.5" y="1335.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-186" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;辅存：固态硬盘，磁盘&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="191" x="979" y="1373" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-187" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;主存和Cache，搭配虚拟存储系统&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="290" x="969" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-188" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;主存：ROM和RAM，SRAM和DRAM（刷新和地址线复用，三种刷新方式）&lt;/font&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;，交叉编址方式&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="741" x="969" y="1295.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-189" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ALU，加法器、乘法器和除法器&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="300" x="950" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-190" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;float,double型浮点数，浮点数的运算&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="360" x="940" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-191" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;带符号数和无符号数，拓展以及截断，溢出和舍入&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="460" x="940" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;原码、补码、移码、反码&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="264" x="940" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-193" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;输入输出系统&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="810" y="2070" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-194" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;总线&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="879" y="1930" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-195" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;中央处理器&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="820" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-196" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;指令&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;系统&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="860" y="1535" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-197" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;存储系统&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="860" y="1335.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-199" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="985" width="20" x="770" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-202" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="140" width="20" x="950" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-203" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="179" width="20" x="950" y="1261" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-204" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="120" width="20" x="950" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-205" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="210" width="20" x="950" y="1660" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-206" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="90" width="20" x="950" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="GTC7fIQp6g3KRkU7dykP-207" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;size=0.5;" value="" vertex="1">
+          <mxGeometry height="120" width="20" x="954" y="2025" as="geometry" />
+        </mxCell>
+        <mxCell id="3_KS5Ux4es30hBP-1Z5W-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SISD,SIMD,MIMD，细粒度/粗粒度/同时多线程&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="445" x="947.5" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="3_KS5Ux4es30hBP-1Z5W-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;硬布线控制器和微程序控制器&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="300" x="947.5" y="1800" as="geometry" />
+        </mxCell>
+        <mxCell id="3_KS5Ux4es30hBP-1Z5W-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;CPU中的寄存器：可见的和不可见的&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="300" x="974" y="1660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
