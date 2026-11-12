@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="YMaqbecZ3isQzkg5_3Bs">
+    <mxGraphModel dx="1992" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;社会&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1240" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-137" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;接纳文化多样性&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1315" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-138" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;保护传统文化&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1315" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;促进文化交流&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1315" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-140" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;推动科技创新&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1305" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-141" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;让人们更容易获取信息&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="1305" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-142" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;提高工作效率&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1305" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-143" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;促进可持续发展&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1325" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-144" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;维持生态平衡&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1325" y="2070" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-145" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;保护环境&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="1325" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-146" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;提高环保意识&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1325" y="1990" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-147" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;加深友谊和亲情&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1320" y="1930" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-148" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;加强人际关系&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1310" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-149" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;建立沟通桥梁&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1310" y="1830" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;促进有效交流&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1320" y="1780" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-151" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;促进社会团结&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1310" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-152" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;满足人们日益增长的需求&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="1320" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-153" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;给人们的日常生活带来便利&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="1320" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-154" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;改善公共服务&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1320" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-155" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;推动社会进步&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1320" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-156" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;丰富精神生活&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1320" y="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-157" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;缓解压力&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="1315" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-158" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;培养实践能力&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="145" x="1300" y="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-159" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;获取宝贵经验&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="1310" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;开阔眼界&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1300" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-161" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;提高生活质量&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1320" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-162" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;实现全面发展&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1320" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-163" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;促进身心健康&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1320" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-164" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;六大方面&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1100" y="1518" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-165" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;交流&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1250" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-166" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;个人&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1240" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-167" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;文化&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1245" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-168" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;科技&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1245" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-169" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;自然&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1245" y="2052.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-171" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="310" width="20" x="1295" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-172" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="190" width="20" x="1300" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-176" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="175" width="20" x="1301" y="1785" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-177" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="135" width="20" x="1305" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-179" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="110" width="20" x="1295" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-180" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="105" width="20" x="1295" y="1502.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CnIfJ9GM3BW_oOahONfO-181" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="1204" width="20" x="1200" y="931" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
